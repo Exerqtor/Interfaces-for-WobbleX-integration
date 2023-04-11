@@ -4,7 +4,7 @@ These parts will allow installation of WobbleX Isolators WS8 on Voron Trident.
 
 Notes:
 * 1 - The maximum Z travel distance will be reduced by 17mm with this mod.
-* 2 - I do not own a Voron Trident, these parts have not been physically validate.  See the [Feedback](/Voron/Trident/README.md) section.
+* 2 - I do not own a Voron Trident, these parts have not been physically validated.  See the [Feedback](/Voron/Trident/README.md) section.
   
   
 ## BOM
